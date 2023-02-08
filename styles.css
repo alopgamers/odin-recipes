@@ -1,0 +1,19 @@
+/* Styles */
+
+h1 {
+    text-align: center;
+    background-color: red;
+    font-family: "Fantasy", Arial, sans-serif;
+}
+
+li {
+    font-size: 30px;
+   }
+
+#eat {
+    height: auto;
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
